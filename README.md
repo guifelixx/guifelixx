@@ -12,4 +12,4 @@
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </div><br/>
 
-### Sou um jovem apaixonado por tecnlogia, games e resolver problemas atravéz da progamação!
+### Sou um jovem apaixonado por tecnlogia, games e resolver problemas através da progamação!
