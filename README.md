@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Guilherme Felix 🕷️
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/guilherme-felix-pascoal-587790204)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/guilherme-felix-pascoal-587790204](https://www.linkedin.com/in/guilherme-felix-pascoal-587790204/))
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felix__gui/)
 
 ![Guilherme Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=guifelixx&show_icons=true&theme=tokyonight)
