@@ -4,7 +4,7 @@
 [![Instragam](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/felix__gui/)
 
 ![Guilherme Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=guifelixx&show_icons=true&theme=tokyonight)
-![Guilherme Felix GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Guilherme Felix GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username={guifelixx}&theme=blue-green)
 
 ## Tecnologias que eu uso no meu dia a dia
 
