@@ -6,7 +6,7 @@
 ![Guilherme Felix GitHub stats](https://github-readme-stats.vercel.app/api?username=guifelixx&show_icons=true&theme=tokyonight)
 ![Guilherme Felix GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guifelixx&theme=blue-green)
 
-## Tecnologias que eu uso no meu dia a dia
+## Tecnologias e linguagens que eu uso no meu dia a dia
 
 
 <div style="display: inline_block"><br/>
