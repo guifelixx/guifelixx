@@ -19,4 +19,4 @@
   
 </div><br/>
 
-![Guilherme Felix GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=guifelixx&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guifelixx&layout=compact)
